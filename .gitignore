@@ -1,0 +1,6 @@
+node_modules
+*.log
+*.DS_Store
+*.db3
+*.lock
+package-lock.json
