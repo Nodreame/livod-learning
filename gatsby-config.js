@@ -10,5 +10,13 @@ module.exports = {
     title: 'Livod Team',
     description: 'Such wow. Very React + TS.',
   },
-  plugins: [],
+  plugins: [
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `src`,
+        path: `${__dirname}/src/`,
+      },
+    },
+  ],
 }
