@@ -6,5 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  siteMetadata: {
+    title: 'Livod Team',
+    description: 'Such wow. Very React + TS.',
+  },
   plugins: [],
 }
