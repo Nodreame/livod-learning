@@ -1,0 +1,2 @@
+(self.webpackChunklivod_learning=self.webpackChunklivod_learning||[]).push([[678],{704:function(n,e,l){"use strict";l.r(e),l.d(e,{default:function(){return i}});var u=l(294);function i(){return u.createElement("div",null,"Hello livod!")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-18a9ed62d20428e50238.js.map

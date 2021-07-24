@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://livod-learning/./src/pages/index.js"],"names":["Home"],"mappings":"8KAEe,SAASA,IACtB,OAAO","file":"component---src-pages-index-js-18a9ed62d20428e50238.js","sourcesContent":["import React from \"react\"\n\nexport default function Home() {\n  return <div>Hello livod!</div>\n}\n"],"sourceRoot":""}
