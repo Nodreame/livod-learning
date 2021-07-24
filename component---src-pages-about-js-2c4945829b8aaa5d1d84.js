@@ -1,2 +1,0 @@
-(self.webpackChunklivod_learning=self.webpackChunklivod_learning||[]).push([[682],{518:function(e,l,n){"use strict";n.r(l);var t=n(294);l.default=function(){return t.createElement("div",{style:{color:"teal"}},t.createElement("h1",null,"About Livod"),t.createElement("p",null,"Such wow. Very React."))}}}]);
-//# sourceMappingURL=component---src-pages-about-js-2c4945829b8aaa5d1d84.js.map
