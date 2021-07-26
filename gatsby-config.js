@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: `/livod-learning`,
   siteMetadata: {
     title: 'Livod Team',
     description: 'Such wow. Very React + TS.',
